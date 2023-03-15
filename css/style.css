@@ -30,7 +30,7 @@ body{
 
 
     transition: all .2s linear;
-    background: url(/img/home/home.png) no-repeat center;
+    background: url(../img/home/home.png) no-repeat center;
     background-size: cover;
     width: 100%;
 }
@@ -101,7 +101,7 @@ button {
 .home{
     height: 100vh;
     width: 100%;
-    background-image: url(/img/home/home.png);
+    background-image: url(../img/home/home.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
